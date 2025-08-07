@@ -10,7 +10,7 @@ This assignment covers **Module 5: File Handling, Exceptions, and Error Manageme
 
 ### Description:
 This task demonstrates how to **read specific lines from a file** and handle the **FileNotFoundError** exception if the file does not exist.
-
+```python
 ### Code Snippet:
 
 print("Reading file content:")
